@@ -16,3 +16,4 @@ Caso de teste 02
     [Tags]             Click_no_menu    sessão_Vamos_conversar
     Acesse o site da Verity - verity.com.br
     Click no Menu “Contato”, sessão “Vamos Conversar”
+    

@@ -46,3 +46,4 @@ Click no Menu “Contato”, sessão “Vamos Conversar”
     Input Text        locator=${FORMULARIO_TEXTO}         text=${DISSERTACAO}
     Click Element     locator=${CHECK_ACEIT}    
     Click Element     locator=${BOTAO_ENVIAR}
+    
