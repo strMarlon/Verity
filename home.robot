@@ -31,13 +31,13 @@ Fechar o navegador
 Acesse o site da Verity - verity.com.br
     Go To    url=${URL}
 
-Realize a validação dos títulos "Culture e Tech" e "Nossas soluções_"
+Realize a validação dos títulos "Nossos Clientes_" e "Nossas soluções_" 
     Wait Until Element Is Visible    locator=${NOSSAS_SOLUCOES}
     Wait Until Element Is Visible    locator=${COLUNA}
     Wait Until Element Is Visible    locator=${NOSSOS_CLIENTES}
     Wait Until Element Is Visible    xpath=${COLUNA_2}
 
-Click no Menu “Contato”, sessão “Vamos Conversar”
+Click no Menu “Contato”, sessão “Vamos Conversar” e Preencha nesta tela os seguintes campos 
     Click Element                                         xpath=${BOTAO}
     Wait Until Element Is Visible                         xpath=${VAMOS_CONVERSAR}
     Input Text        xpath=${FORMULARIO_NOME}            text=${NOME}
