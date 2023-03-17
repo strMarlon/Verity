@@ -71,7 +71,7 @@ de comando mas, como geralmente eles são grandes, as tags são uma melhor opç�
   robotframework-selenium2library 3.0.0
   robotframework-seleniumlibrary  6.1.0.dev1
 </pre>
-## Webdrivers
+##  Webdrivers
 <p>Depois das nossas linguagens instaladas, precisamos baixar os drivers que controlarão os browsers utilizados. No site do Selenium você encontra esses drivers.</p> 
 <p>Os drivers, após baixados, deverão ser descompactados e colocados na pasta Python311\Scripts\. Funciona também se colocar na pasta do seu projeto, mas isso não é </p>
 <p>recomendado pois você teria que replicar o driver para cada projeto.</p>
@@ -82,8 +82,8 @@ de comando mas, como geralmente eles são grandes, as tags são uma melhor opç�
   /usr/local/bin/.
 </pre>
 
-### Agora, tudo está pronto!
-### Executando pelo Terminal
+###  Agora, tudo está pronto!
+####  Executando pelo Terminal
 <p>Navegue até a pasta em que voceê baixou ou clonou os arquivos e use os comandos.</p>
 <pre>
   $ robot "nome_do_arquivo.robot"
@@ -98,7 +98,7 @@ de comando mas, como geralmente eles são grandes, as tags são uma melhor opç�
   -n <nome>: define um nome personalizado para o conjunto de testes
   -t <nome_do_teste>: executa apenas o teste com o nome especificado
  </pre>
-### Relatórios
+###  Relatórios
 <p>Os resultados dos testes são exibidos na tela no terminal.</p>
 <p>Além disso, gera um relatório .html a cada execução, esse relatório e gerado na pasta do projeto.</p>
 
