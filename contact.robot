@@ -15,5 +15,5 @@ Caso de teste 02
     [Documentation]    Clica no menu contato
     [Tags]             Click_no_menu    sessão_Vamos_conversar
     Acesse o site da Verity - verity.com.br
-    Click no Menu “Contato”, sessão “Vamos Conversar”
+    Click no Menu “Contato”, sessão “Vamos Conversar” e Preencha nesta tela os seguintes campos 
     
