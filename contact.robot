@@ -10,7 +10,7 @@ Caso de teste 01
     ...                "Culture e Tech" e "Nossas soluções"
     [Tags]             visita
     Acesse o site da Verity - verity.com.br
-    Realize a validação dos títulos "Culture e Tech" e "Nossas soluções_"
+    Realize a validação dos títulos "Nossos Clientes_" e "Nossas soluções_"
 Caso de teste 02
     [Documentation]    Clica no menu contato
     [Tags]             Click_no_menu    sessão_Vamos_conversar
