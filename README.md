@@ -87,7 +87,7 @@ de comando mas, como geralmente eles são grandes, as tags são uma melhor opç�
 <pre>
   $ robot "nome_do_arquivo.robot"
 </pre>
-<p>Este comando irá executar o arquivo de teste especificado e exibir o resultado no console.M</p>
+<p>Este comando irá executar o arquivo de teste especificado e exibir o resultado no console.</p>
 <p>Além disso, existem alguns argumentos opcionais que você pode usar para personalizar a execução do teste, como:</p>
 <pre>
   -d <diretório>: define o diretório onde os resultados serão salvos
