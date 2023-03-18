@@ -60,7 +60,8 @@ de comando mas, como geralmente eles são grandes, as tags são uma melhor opç�
 </pre> 
 
 <p>Segue em anexo o site:</p> 
-<p>⭐ [Robot Framework](https://robotframework.org)</p> 
+
+⭐ [Robot Framework](https://robotframework.org) 
     
 <p>O upgrade é necessário para instalar a biblioteca mais nova, pois a antiga gera erros de compilação.</p>
 <p>Rode os comandos abaixo e veja se a saída contém os elementos.</p>
@@ -101,4 +102,12 @@ de comando mas, como geralmente eles são grandes, as tags são uma melhor opç�
 <h3>Relatórios</h3>
 <p>Os resultados dos testes são exibidos na tela no terminal.</p>
 <p>Além disso, gera um relatório .html a cada execução, esse relatório e gerado na pasta do projeto.</p>
+
+
+#  Me Segue =}
+
+👨🏻‍💻 [LinkedIn](https://www.linkedin.com/in/marlon-amorim-117225250) 
+
+💗 [Instagram](https://www.instagram.com/marlonzao0)
+
 
