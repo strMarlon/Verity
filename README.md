@@ -59,7 +59,8 @@ de comando mas, como geralmente eles são grandes, as tags são uma melhor opç�
   $ pip install --upgrade robotframework-seleniumlibrary
 </pre> 
 
-<p>Segue em anexo o site do Robot Framework: https://robotframework.org</p>
+<p>Segue em anexo o site:</p> 
+<p>⭐ [Robot Framework](https://robotframework.org)</p> 
     
 <p>O upgrade é necessário para instalar a biblioteca mais nova, pois a antiga gera erros de compilação.</p>
 <p>Rode os comandos abaixo e veja se a saída contém os elementos.</p>
